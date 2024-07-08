@@ -7,11 +7,11 @@ favicon:
 #网页图标
 
 navigation:
-  - name: 周勒痿瑟图
+  - name: 首页
     url: /
-  - name: 关于我周勒痿
+  - name: 关于我
     url: /about
-  - name: 周勒痿的不同瑟图
+  - name: 奇怪的东西
     url: /tags
 
 paginate: 8
