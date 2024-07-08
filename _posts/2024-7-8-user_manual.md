@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "今天给你们欣赏下我数学考试画的画"
+title: "这只是个测试页面"
 date:   2024-7-8
 tags: [web]
 comments: true
-author: pianfan
+author:  cattle_ru
 ---
 
-###### 说明：本博客为我的画技进化史，本人还是个小白，所以画风不太稳定，轻喷
+###### 说明：这只是个测试
 
 <!-- more -->
 
