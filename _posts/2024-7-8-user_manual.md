@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "今天给你们欣赏下我数学考试画的瑟图"
+title: "今天给你们欣赏下我数学考试画的画"
 date:   2024-7-8
 tags: [web]
 comments: true
