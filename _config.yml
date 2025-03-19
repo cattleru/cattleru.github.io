@@ -1,5 +1,5 @@
 name: " cattle_ru's blog"
-description: "瑞斯的个人博客"
+description: "牛业的个人博客"
 
 avatar: 
 #页面图像
@@ -27,8 +27,7 @@ footer-links:
   twitter: lian20082
   youtube:
 
-footer-text: Copyright (c) 2024 Pianfan
-
+footer-text: 2025 cattle_ru
 url: https://cattleru.github.io
 
 permalink: /:title/
