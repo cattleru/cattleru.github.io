@@ -11,7 +11,7 @@ navigation:
     url: /
   - name: 关于我
     url: /about
-  - name: 奇怪的东西
+  - name: 帖子
     url: /tags
 
 paginate: 8
@@ -24,7 +24,7 @@ footer-links:
   facebook:
   github: cattleru
   rss: # just type anything here for a working RSS icon
-  twitter: lian20082
+  twitter: lian20084
   youtube:
 
 footer-text: 2025 cattle_ru
